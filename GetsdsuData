@@ -1,0 +1,68 @@
+<sdsu_data>
+   <acct_sum>
+       <sum_line>
+           <sum_desc>Today’s Date</sum_desc>
+           <sum_amt>09/12/2019</sum_amt>
+       </sum_line>
+       <sum_line>
+           <sum_desc>My Total Balance</sum_desc>
+           <sum_amt>$0.00</sum_amt>
+       </sum_line>
+       <sum_line>
+           <sum_desc>Amount That Is Past Due</sum_desc>
+           <sum_amt>$0.00</sum_amt>
+       </sum_line>
+   </acct_sum>
+   <acct_dtl>
+       <transactionFamily>
+           <familyName>Tuition and Fees Fall 2019</familyName>
+           <transactionGroup>
+               <effectiveDate>08/16/2019</effectiveDate>
+               <printDescription>Tuition and Fees Fall 2019</printDescription>
+               <amount>$3,755.00</amount>
+               <balance>$0.00</balance>
+               <dueDate>08/26/2019</dueDate>
+               <payment>
+                   <effectiveDate>08/16/2019</effectiveDate>
+                   <paymentMethod>STATE UNIVERSITY GRANT PROGRAM</paymentMethod>
+                   <amount>-$2,871.00</amount>
+               </payment>
+               <payment>
+                   <effectiveDate>08/16/2019</effectiveDate>
+                   <paymentMethod>FEDERAL PELL GRANT</paymentMethod>
+                   <amount>-$884.00</amount>
+               </payment>
+           </transactionGroup>
+       </transactionFamily>
+       <transactionFamily>
+           <familyName>Other Items Fall 2019</familyName>
+           <transactionGroup>
+               <effectiveDate>08/08/2019</effectiveDate>
+               <printDescription>Parking Fees</printDescription>
+               <amount>$174.00</amount>
+               <balance>$0.00</balance>
+               <dueDate></dueDate>
+               <payment>
+                   <effectiveDate>08/08/2019</effectiveDate>
+                   <paymentMethod>Click to Pay Credit Cards</paymentMethod>
+                   <amount>-$174.00</amount>
+               </payment>
+           </transactionGroup>
+       </transactionFamily>
+       <transactionFamily>
+           <familyName>Financial Aid Refunds or Tuition Reimbursements for Fall 2019</familyName>
+           <transactionGroup>
+               <effectiveDate>08/16/2019</effectiveDate>
+               <printDescription>EDUC OPPORT PROGRAM GRANT</printDescription>
+               <amount>-$250.00</amount>
+               <balance>$0.00</balance>
+               <dueDate></dueDate>
+               <payment>
+                   <effectiveDate>08/16/2019</effectiveDate>
+                   <paymentMethod>Financial Aid Refund By ACH</paymentMethod>
+                   <amount>$250.00</amount>
+               </payment>
+           </transactionGroup>
+       </transactionFamily>
+   </acct_dtl>
+</sdsu_data>
